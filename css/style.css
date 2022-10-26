@@ -1,0 +1,51 @@
+body{
+    position: absolute;
+    left: -3px;
+    top: -1px;
+    width: 1920px;
+    height: 1080px;
+    background: #141414
+}
+
+.retang{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 441px;
+  height: 1080px;
+  background: #3d4a3b;
+  background-blend-mode: normal;
+}
+
+.log1{
+    position: absolute;
+    left: 50px;
+    top: 885px;
+    width: 75px;
+    height: 75px;
+}
+
+.log2{
+    position: absolute;
+    left: 50px;
+    top: 420px;
+    width: 75px;
+    height: 75px;
+  }
+
+.log3{
+    position: absolute;
+    left: 50px;
+    top: 575px;
+    width: 75px;
+    height: 75px
+}
+  
+.log4{
+    position: absolute;
+    left: 50px;
+    top: 730px;
+    width: 75px;
+    height: 75px;
+}
+
